@@ -1,47 +1,43 @@
 
 ---
 
-## 🔍 Key Insights
-- Women contribute approximately **64%** of total sales
-- Amazon and Myntra are the **top-performing channels**
-- Over **90% of orders are successfully delivered**
-- Maharashtra is the **highest revenue-generating state**
-- Adult age group generates the **maximum sales**
-- Sales peak in the early months and decline towards year-end
+## 🚀 How to Use
+1. Download the Excel file from this repository
+2. Open the file in **Microsoft Excel**
+3. Use the slicers on the dashboard to filter:
+   - Month-wise data
+   - Product category
+   - Sales channel
+4. Analyze KPIs and charts to extract insights
 
 ---
 
-## 🚀 How to Use the Dashboard
-1. Download the Excel file from the repository
-2. Open it in Microsoft Excel
-3. Use slicers to filter data by:
-   - Month
-   - Category
-   - Channel
-4. Analyze KPIs and charts to gain insights
+## 📌 Skills Demonstrated
+- Excel Data Analysis
+- Pivot Table Reporting
+- Dashboard Development
+- Business Intelligence
+- Data Visualization
+- Analytical Thinking
 
 ---
 
-## 📌 Learning Outcomes
-- Hands-on experience with Excel dashboards
-- Understanding of real-world business KPIs
-- Improved data analysis and visualization skills
-- Practical exposure to e-commerce sales analytics
-
----
-
-## 💼 Use Case
-This project is suitable for:
+## 🎓 Project Use Cases
 - Academic / Final Year Project
-- Resume & Portfolio
-- Data Analyst / Business Analyst interviews
-- Excel Dashboard practice
+- Resume & Portfolio Project
+- Data Analyst Interview Demonstration
+- Excel Dashboard Practice
 
 ---
 
-## 📬 Author
+## 👤 Author
 **Bhoomi Lohana**
 
 ---
 
-⭐ If you like this project, don’t forget to star the repository!
+## ⭐ Acknowledgement
+This project was created for learning and analytical practice using Excel and real-world business scenarios.
+
+---
+
+⭐ **If you find this project useful, please give it a star!**
